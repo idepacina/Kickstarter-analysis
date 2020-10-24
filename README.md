@@ -65,6 +65,8 @@ The purpose of the project is to help Louise make informed decisions for her cam
 5. Calculated the percentage of successful, failed, and canceled projects for each row by dividing the respective project by the "Total Projects." Example: =(B2/E2)
 6. Created a line chart titled "Outcomes Based on Goal" to show the relationship between the goal-amount ranges and the percentage of successful, failed, and canceled projects.
 
+![](https://github.com/idepacina/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 ### Challenges and Difficulties Encountered
 
 Challenges and difficulties faced was with the analysis of outcomes based on goals. It was difficult to find an efficient way to utilize the COUNTIFS() function so that the formula could extend to other columns and rows. The solution was to use the F4 button to make the criteria range absolute. 
