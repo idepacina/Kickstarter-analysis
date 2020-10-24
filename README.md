@@ -38,7 +38,7 @@ The purpose of the project is to help Louise make informed decisions for her cam
 ### Analysis of Outcomes Based on Goals
 
 1. A new sheet was created and labeled "Outcomes Based on Goals." 
-2. The following colums and rows were created to hold the data and group the projects based on goal amount.
+2. The following columns and rows were created to hold the data and group the projects based on goal amount.
 
     - Columns:
         - Goal
@@ -46,7 +46,7 @@ The purpose of the project is to help Louise make informed decisions for her cam
         - Number failed
         - Number canceled
         - Total projects
-        - Percentage sucessful 
+        - Percentage successful 
         - Percentage failed
         - Percentage canceled
     - Rows: 
@@ -87,12 +87,12 @@ The result allowed for a simple change the function. The first criteria was chan
 
 - What can you conclude about the Outcomes based on Goals?
 
-    - It would be in Louise's best interest to set a goal less than $1000 because it has the highest successful percentage and the lowest failed percentage. 
+    - It would be in Louise's best interest to set a goal less than $1000 because it has the highest successful percentag. 
     - By setting a goal of $1000, it can be predicted that her play will have a 76% chance of being successful.
 
 - What are some limitations of this dataset?
-    - The data is limited and based on the Kickstarter dataset. 
-    - The data can be more specific and include more categories such as genre, age groups, and location within the countries. With additional categories, Louise can narrow her search in regards to target audience and cities where theater plays are popular.  
+    - The data is sample. Therefore, the results are limited and based on the Kickstarter dataset. 
+    - The data can be more specific and include categories such as genre, age groups, and location within the countries. With additional categories, Louise can narrow her search in regards to target audience and cities where theater plays are popular.  
 
 - What are some other possible tables and/or graphs that we could create?
     - Create a pivot table and chart that shows the relationship between successful plays based on country. This particular data will highlight which countries express the most interest plays and which countries might need more attention to grow the interest. 
