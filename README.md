@@ -33,7 +33,7 @@ The purpose of the project is to help Louise make informed decisions for her cam
 9. The campaigns were sorted in descending order so "successful" is first. 
 10. A line chart was created from the pivot table to show the relationship between the outcomes and the launch month. 
 
-![](https://github.com/idepacina/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![TheaterOutcomesVs.LaunchDate](https://github.com/idepacina/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -67,6 +67,7 @@ The purpose of the project is to help Louise make informed decisions for her cam
 5. Calculated the percentage of successful, failed, and canceled projects for each row by dividing the respective project by the "Total Projects." Example: =(B2/E2)
 6. Created a line chart titled "Outcomes Based on Goal" to show the relationship between the goal-amount ranges and the percentage of successful, failed, and canceled projects.
 
+![OutcomesVs.Goals](https://github.com/idepacina/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
