@@ -75,7 +75,7 @@ Challenges and difficulties faced was with the analysis of outcomes based on goa
 
 =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$R:$R,"plays")
 
-The result allowed for a simple change the function. The first criteria was changed from "successful" to "canceled" and "failed." This way Excel was running the same formula in the table as opposed to having to go to every cell and manually using the =COUNTIFS() function over again. 
+The result allowed for a simple change the function. The first criteria was changed from "successful" to "canceled" and "failed." This way Excel was running the same formula in the table as opposed to having to go to every cell and manually use the =COUNTIFS() function over again. 
 
 ## Results
 
